@@ -1,8 +1,8 @@
 {
-  "name": "Python on Heroku example",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Alexander Teplov's Portfolio",
+  "description": "A website for displaying the work of Alexander Teplov.",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/loptev-jr/Website-thing",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ]
 }
